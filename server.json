@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.eldrick.api/fitting",
+  "title": "ELDRICK Golf Club Fitting",
+  "description": "Golf club fitting MCP server: fits drivers, woods, hybrids, irons and wedges; scores real clubs.",
+  "version": "1.3.0",
+  "websiteUrl": "https://api.eldrick.com/connect",
+  "icons": [
+    {
+      "src": "https://api.eldrick.com/eldrick-icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.eldrick.com/mcp"
+    }
+  ]
+}
