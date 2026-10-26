@@ -8,7 +8,7 @@ speed, and matches every spec to real heads, shafts and grips. It can also
 search, compare and score clubs from the ELDRICK catalog. Putters aren't
 supported.
 
-Built on 100,000+ fittings: trained on 80,000, plus 25,000+ ELDRICK has done itself.
+Built on 100,000+ fittings.
 
 This repository is the public listing for the server: connection steps, the
 tool list and the registry metadata. The server itself is hosted by ELDRICK
